@@ -1130,6 +1130,18 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/LIBERUM_VETO_eventPicture.dds"
 		allwaystransparent = yes
 	}
+	
+	spriteType = {
+		name = "CORTES_GENERALES_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/CORTES_GENERALES_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "WILLIAM_WALLACE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/WILLIAM_WALLACE_eventPicture.dds"
+		allwaystransparent = yes
+	}
 
 #	spriteType = {
 #		name = "asiangfx_LIBERIUM_VETO_eventPicture"
