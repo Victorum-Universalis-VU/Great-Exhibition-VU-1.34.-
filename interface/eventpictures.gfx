@@ -600,4 +600,16 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/WOUNDED_SOLDIERS_eventPicture.dds"
 		allwaystransparent = yes
 	}
+	
+	spriteType = {
+		name = "IMPERIALISM_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/IMPERIALISM_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "NATIONALISM_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/NATIONALISM_eventPicture.dds"
+		allwaystransparent = yes
+	}
 }
