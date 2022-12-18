@@ -1151,7 +1151,7 @@ spriteTypes = {
         allwaystransparent = yes
     }
     spriteType = {
-        name = "hre_event.1_HRE_eventPicture"
+        name = "ROMAN_RUINS_COLUMNS_eventPicture"
         texturefile = "gfx/event_pictures/ROMAN_RUINS_COLUMNS_eventPicture.dds"
         allwaystransparent = yes
     }
