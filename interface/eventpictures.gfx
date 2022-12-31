@@ -13,6 +13,18 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "LORD_OF_GOTLAND_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EUROPEAN/LORD_OF_GOTLAND_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "CAROLEANS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EUROPEAN/CAROLEANS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
 		name = "BLACK_DEATH_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/BLACK_DEATH_eventPicture.dds"
 		allwaystransparent = yes

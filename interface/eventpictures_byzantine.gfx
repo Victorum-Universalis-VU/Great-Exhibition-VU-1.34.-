@@ -88,5 +88,10 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_BYZANTINE/JERUSALEM_eventPicture.dds"
 		allwaystransparent = yes
 	}
-
+	
+	spriteType = {
+		name = "BYZ_ORTHODOX_CONVERSION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_BYZANTINE/BYZ_ORTHODOX_CONVERSION_eventPicture.dds"
+		allwaystransparent = yes
+	}
 }
